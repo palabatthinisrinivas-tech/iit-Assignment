@@ -1,0 +1,3 @@
+# Install language-specific dependencies as documented in each folder.
+-r English/requirements.txt
+-r Telugu/requirements.txt
